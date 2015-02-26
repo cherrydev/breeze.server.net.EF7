@@ -1,0 +1,15 @@
+﻿{
+    "version": "1.0.0-*",
+    "dependencies": {
+        "EntityFramework": "7.0.0-beta4-*",
+        "EntityFramework.SqlServer": "7.0.0-beta4-*",
+        "Breeze.ContextProvider": ""
+    },
+
+    "frameworks" : {
+        "aspnet50" : { 
+            "dependencies": {
+            }
+        }
+    }
+}
